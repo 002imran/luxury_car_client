@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "pdroduct_name": "Car Engine Plug",
+        "price": 1500,
+        "img": "https://i.ibb.co/NWNWDRD/1.png"
+    },
+    {
+        "id": 2,
+        "pdroduct_name": "Car Air Filter",
+        "price": 430,
+        "img": "https://i.ibb.co/GMnvYH3/2.png"
+    },
+    {
+        "id": 3,
+        "pdroduct_name": "Close Led Light",
+        "price": 500,
+        "img": "https://i.ibb.co/cv1Dnt6/3.png"
+    },
+    {
+        "id": 4,
+        "pdroduct_name": "Random Parts",
+        "price": 400,
+        "img": "https://i.ibb.co/LtPK492/4.png"
+    },
+    {
+        "id": 5,
+        "pdroduct_name": "Tire",
+        "price": 1000,
+        "img": "https://i.ibb.co/zNvG9SZ/5.png"
+    },
+    {
+        "id": 1,
+        "pdroduct_name": "Battery",
+        "price": 300,
+        "img": "https://i.ibb.co/gwr96xW/6.png"
+       
+    }
+]
